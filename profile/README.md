@@ -1,39 +1,26 @@
-# 🌾 SATU Tani: Digitalizing Agriculture Supply Chain
+# 🌾 Satu Tani - AI B2B Matchmaking & Platform Spasial Ketahanan Pangan Nasional
 
-**SATU Tani** adalah platform orkestrasi rantai pasok pertanian yang dirancang untuk memangkas inefisiensi logistik dan transparansi harga antara petani dan pasar. Dibangun di atas arsitektur yang *scalable* untuk mendukung kedaulatan pangan digital Indonesia.
+**High-Performance Agritech Orchestration Platform**
 
-## 🚀 The Mission
+**SATU Tani** adalah platform rantai pasok pertanian *enterprise-grade* yang dirancang untuk mengatasi inefisiensi logistik melalui pendekatan geospasial dan analitik prediktif. Dibangun untuk mendukung kedaulatan pangan digital Indonesia pada ajang **PIDI - DIGDAYA X Hackathon 2026**.
 
-Mengintegrasikan teknologi *data-driven* untuk memastikan distribusi hasil tani yang presisi, mengurangi *food waste*, dan meningkatkan margin kesejahteraan petani lokal melalui ekosistem digital yang terintegrasi.
+## 🚀 The Core Innovation
+
+Kami menggabungkan manajemen lahan berbasis poligon dengan mesin optimasi rute untuk memastikan hasil panen sampai ke pasar dengan degradasi nilai seminimal mungkin.
 
 ## 👥 The Core Team
 
-Kolaborasi lintas disiplin untuk solusi *production-ready*:
+* **William Johan Pakpakhan** – *Project Lead / Product Planner*
+* **Rafli Anggoro** – *System Architect / Technical Planner*
+* **Sudarmo Adi Joyo Putro** – *UI Designer*
+* **Renaldo Yosia Setiyanto** – *UX Designer / Prototype Builder*
 
-* **William Johan Pakpakhan** – Product Strategy & Management
-* **Rafli Anggoro** – Software Architect & Backend Engineering
-* **Renaldo Yosia Setiyanto** – Front-end & Mobile Experience
-* **Sudarmo Adi Joyo Putro** – Data Analyst & Field Operations
+## 🛠 Advanced Tech Stack
 
-## 🛠 Tech Stack
-
-Sistem ini dioptimalkan untuk performa tinggi dan reliabilitas:
-
-* **Backend:** Golang (Fiber/Echo) dengan arsitektur Microservices.
-* **Database:** PostgreSQL (Primary) & Redis (Caching).
-* **Infrastructure:** Dockerized environment, CI/CD ready.
-* **Mobile:** React Native / Flutter untuk aksesibilitas di lapangan.
-
-## 🌈 Get Involved
-
-Kami membuka ruang untuk kontribusi komunitas terutama pada:
-
-1. **Optimasi Algoritma:** Penentuan rute logistik tercepat.
-2. **Data Modeling:** Prediksi harga pasar berdasarkan histori panen.
-3. **UI/UX:** Peningkatan aksesibilitas bagi pengguna di daerah pelosok.
+1. **Mobile App:** **Flutter** – Menghasilkan antarmuka transaksional yang responsif lintas platform (Android/iOS).
+2. **Web & Core Backend:** **ASP.NET Core (.NET 8)** – Menggunakan Entity Framework Core sebagai fondasi API yang robust, aman, dan berkinerja tinggi.
+3. **Database & Geospatial:** **PostgreSQL + PostGIS** – Esensial untuk memproses poligon lahan dan query radius lokasi (Proximity Analysis).
+4. **AI Engine:** **Python Analytics Module** – Khusus untuk *spatial clustering* lahan dan optimasi rute pengiriman logistik.
+5. **Design:** **Figma** – *High-fidelity* prototyping dan *design system* yang konsisten.
 
 ---
-
-### 🧙 PIDI - DIGDAYA X Hackathon 2026
-
-*Project ini dikembangkan secara intensif untuk tantangan inovasi digital agrikultur nasional.*
