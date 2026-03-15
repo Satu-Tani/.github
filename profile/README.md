@@ -10,7 +10,7 @@ Kami menggabungkan manajemen lahan berbasis poligon dengan mesin optimasi rute u
 
 ## 👥 The Core Team
 
-* **William Johan Pakpakhan** – *Project Lead / Product Planner*
+* **William Johan Pakpahan** – *Project Lead / Product Planner*
 * **Rafli Anggoro** – *System Architect / Technical Planner*
 * **Sudarmo Adi Joyo Putro** – *UI Designer*
 * **Renaldo Yosia Setiyanto** – *UX Designer / Prototype Builder*
